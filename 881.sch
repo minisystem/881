@@ -1934,4 +1934,6 @@ F 3 "~" H 5675 2525 60  0000 C CNN
 	1    5675 2525
 	1    0    0    -1  
 $EndComp
+Text Notes 1875 6025 0    60   ~ 0
+Can inputs to CD4048 be left floating?
 $EndSCHEMATC

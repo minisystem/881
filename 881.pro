@@ -1,4 +1,4 @@
-update=2018-09-22 11:16:49 AM
+update=2018-11-05 1:53:25 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,3 +57,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=E:/Documents/KiCad/MyLibs/MySynthParts
+[general]
+version=1
